@@ -1,0 +1,66 @@
+---
+title: "Training Notes"
+---
+
+Python Made Easy: Science and Math Edition
+
+Sep-Dec 2025 batch, Vikrant Patil
+
+© Vikrant Patil
+
+
+## Regular Batch
+
+### Module I
+
+- [Day 1](module1-day1.html)
+- [Day 2](module1-day2.html)
+- [Day 3](module1-day3.html)
+- [Day 4](module1-day4.html)
+- [Day 5](module1-day5.html)
+
+### Module II
+
+- [Day 1](module2-day1.html)
+- [Revision](revision.html)
+- [Day 2](students-module2-day2.html)
+- [Day 3](module1-day3.html)
+- [Practice Problems](problems.html)
+- [Practice](module2-pratice.html)
+- [Day 4](module2-day4.html)
+- [Day 5](module2-day5.html)
+
+### Module III
+
+- [Day 1](module3-day1.html)
+- [Day 2](module3-day2.html)
+- [Day 3](module3-day3.html)         
+
+## Students Batch
+
+### Module I
+
+- [Day 1](module1-day1.html)
+- [Day 2](students-module1-day2.html)
+- [Day 3](students-module1-day3.html)
+- [Day 4](students-module1-day4.html)
+- [Day 5](module1-day5.html)
+
+### Module II
+
+- [Day 1](module2-day1.html)
+- [Day 2](students-module2-day2.html)
+- [Day 3](students-module2-day3.html)
+- [Practice](students-practice.html)
+- [Practice2](students-practice2.html)
+- [Practice3](students-practice3.html)
+- [Day 4](students-module2-day4.html)
+- [Day 5](students-module2-day5.html)
+
+### Module III
+- [Day1](students-module3-day1.html)
+- [Day2](students-module3-day2.html)
+- [Day3](students-module3-day3.html)
+- [Day4](students-module3-day4.html)
+- [Pray-Predator](Lotka_Volterra_model.html)
+- [SIR](SIR.html)

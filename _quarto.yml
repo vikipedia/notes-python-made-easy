@@ -1,0 +1,88 @@
+project:
+  type: website
+
+website:
+  site-url: https://vikrant.dev/python-made-easy-science-math/
+  title: "Math & Science Edition"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - trainer.qmd
+      - topics.qmd
+      - notes.qmd
+  sidebar:
+    style: docked
+    contents:
+      - section: Regular Batch
+        contents:
+          - section: Module I
+            contents:
+            - module1-day1.ipynb
+            - module1-day2.ipynb
+            - module1-day3.ipynb
+            - module1-day4.ipynb
+            - module1-day5.ipynb
+            
+          - section: Module II
+            contents:
+            - module2-day1.ipynb
+            - revision.ipynb
+            - students-module2-day2.ipynb
+            - module2-day3.ipynb
+            - problems.ipynb
+            - module2-practice.ipynb
+            - module2-day4.ipynb
+            - module2-day5.ipynb
+
+          - section: Module III
+            contents:
+            - module3-day1.ipynb
+            - module3-day2.ipynb
+            - module3-day3.ipynb
+
+            
+      - section: Student Batch
+        contents:
+          - section: Module I
+            contents:
+            - module1-day1.ipynb
+            - students-module1-day2.ipynb
+            - students-module1-day3.ipynb
+            - students-module1-day4.ipynb
+            - module1-day5.ipynb
+            
+          - section: Practice Module II
+            contents:
+              - students-practice.ipynb
+              - students-practice2.ipynb
+              - students-practice3.ipynb
+
+          - section: Module II
+            contents:
+              - module2-day1.ipynb
+              - students-module2-day2.ipynb
+              - students-module2-day3.ipynb
+              - students-module2-day4.ipynb
+              - students-module2-day5.ipynb
+            
+          - section: Module III
+            contents:
+              - students-module3-day1.ipynb
+              - students-module3-day2.ipynb
+              - students-module3-day3.ipynb
+              - students-module3-day4.ipynb
+              - Lotka_Volterra_model.ipynb
+              - SIR.ipynb
+
+
+format:
+  html:
+    theme:
+      - journal
+      - brand
+    css: styles.css
+    toc: true
+
+
+

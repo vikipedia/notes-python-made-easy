@@ -1,0 +1,27 @@
+
+---
+title: "Training Notes"
+---
+
+Python Made Easy: Science and Math Edition
+
+Sep-Dec 2025 batch, Vikrant Patil
+
+© Vikrant Patil
+
+
+## Regular Batch
+
+### Module I
+- module1-day1.ipynb
+- module1-day2.ipynb
+- module1-day3.ipynb
+- module1-day4.ipynb
+- module1-day5.ipynb
+
+### Module II
+- module2-day1.ipynb
+- module2-day2.ipynb
+- module2-day3.ipynb
+- module2-day4.ipynb
+- module2-day5.ipynb
