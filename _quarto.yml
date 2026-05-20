@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://vikrant.dev/python-made-easy-science-math/
+  site-url: https://sciencemathedition25.training.vikrant.dev
   title: "Math & Science Edition"
   navbar:
     left:
